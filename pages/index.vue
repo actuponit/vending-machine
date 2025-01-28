@@ -44,14 +44,14 @@ import mirindaImg from '~/assets/images/mirinda.png'
       id: 1,
       name: 'Mirinda',
       description: 'Refreshing carbonated beverage',
-      price: 1.50,
+      price: 100.00,
       image: mirindaImg,
     },
     {
       id: 2,
       name: 'Chips Bag',
       description: 'Crunchy potato chips',
-      price: 2.00,
+      price: 50.00,
       image: chipsImg,
     },
   ]);
